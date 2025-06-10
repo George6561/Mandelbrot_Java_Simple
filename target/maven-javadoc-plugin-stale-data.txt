@@ -1,0 +1,50 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+--release
+24
+-sourcepath
+'C:/Users/CG/Documents/NetBeansProjects/Mandelbrot/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2025. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/CG/Documents/NetBeansProjects/Mandelbrot/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Mandelbrot 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'Mandelbrot 1.0-SNAPSHOT API'
+com.gradient
+com.graph
+com.main
+com.mandelbrot
+com.render
+com.utils
+C:\Users\CG\Documents\NetBeansProjects\Mandelbrot\src\main\java = 1749509851382
+C:\Users\CG\Documents\NetBeansProjects\Mandelbrot\target\reports\apidocs\allclasses-index.html = 1749587988360
+C:\Users\CG\Documents\NetBeansProjects\Mandelbrot\target\reports\apidocs\allpackages-index.html = 1749587988377
+C:\Users\CG\Documents\NetBeansProjects\Mandelbrot\target\reports\apidocs\constant-values.html = 1749587987833
+C:\Users\CG\Documents\NetBeansProjects\Mandelbrot\target\reports\apidocs\element-list = 1749587987495
+C:\Users\CG\Documents\NetBeansProjects\Mandelbrot\target\reports\apidocs\help-doc.html = 1749587989016
+C:\Users\CG\Documents\NetBeansProjects\Mandelbrot\target\reports\apidocs\index-all.html = 1749587988986
+C:\Users\CG\Documents\NetBeansProjects\Mandelbrot\target\reports\apidocs\index.html = 1749587988308
+C:\Users\CG\Documents\NetBeansProjects\Mandelbrot\target\reports\apidocs\javadoc.bat = 1749587924181
+C:\Users\CG\Documents\NetBeansProjects\Mandelbrot\target\reports\apidocs\member-search-index.js = 1749587988428
+C:\Users\CG\Documents\NetBeansProjects\Mandelbrot\target\reports\apidocs\module-search-index.js = 1749587988396
+C:\Users\CG\Documents\NetBeansProjects\Mandelbrot\target\reports\apidocs\overview-summary.html = 1749587988998
+C:\Users\CG\Documents\NetBeansProjects\Mandelbrot\target\reports\apidocs\overview-tree.html = 1749587988300
+C:\Users\CG\Documents\NetBeansProjects\Mandelbrot\target\reports\apidocs\package-search-index.js = 1749587988404
+C:\Users\CG\Documents\NetBeansProjects\Mandelbrot\target\reports\apidocs\search.html = 1749587988991
+C:\Users\CG\Documents\NetBeansProjects\Mandelbrot\target\reports\apidocs\serialized-form.html = 1749587987861
+C:\Users\CG\Documents\NetBeansProjects\Mandelbrot\target\reports\apidocs\tag-search-index.js = 1749587988458
+C:\Users\CG\Documents\NetBeansProjects\Mandelbrot\target\reports\apidocs\type-search-index.js = 1749587988413
